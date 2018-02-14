@@ -69,6 +69,15 @@ p{
 	text-align: justify;
 	margin: 3%;
 	font-family: 'kenyancoffee';
+	
+}
+/p{
+	font-size: 160%;
+	line-height: 00%;
+	text-align: justify;
+	margin: 3%;
+	font-family: 'kenyancoffee';
+	
 }
 .insta {
 	border-radius: 9px;
